@@ -1,1 +1,1 @@
-# FreezeGuard-Predicting-Gait-Freeze-Events-using-Wearable-Sensors
+Implemented comprehensive model evaluation and analysis for predicting gait freeze events using wearable sensor data. 🚀 #ModelEvaluation #MachineLearning #HealthTech
